@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itmem>
+	<nspEntry>
+		<uid>9639</uid>
+		<firstName>Ayman al</firstName>
+		<lastName>Zawahiri</lastName>
+		<nspType>Individual</nspType>
+		<programList>
+			<program>NS-PLC</program>
+		</programList>
+	</nspEntry>
+	<nspEntry>
+		<uid>9640</uid>
+		<firstName>Nasir al</firstName>
+		<lastName>Wuhayshi</lastName>
+		<nspType>Individual</nspType>
+		<programList>
+			<program>NS-PLC</program>
+		</programList>
+	</nspEntry>
+	<nspEntry>
+		<uid>9641</uid>
+		<firstName>Ibrahim al</firstName>
+		<lastName>Asiri</lastName>
+		<nspType>Individual</nspType>
+		<programList>
+			<program>NS-PLC</program>
+		</programList>
+	</nspEntry>
+	<nspEntry>
+		<uid>9642</uid>
+		<firstName>Ahmed Abdi</firstName>
+		<lastName>Godane</lastName>
+		<nspType>Individual</nspType>
+		<programList>
+			<program>NS-PLC</program>
+		</programList>
+	</nspEntry>
+	<nspEntry>
+		<uid>9643</uid>
+		<firstName>Moktar </firstName>
+		<lastName>Belmoktar</lastName>
+		<nspType>Individual</nspType>
+		<programList>
+			<program>NS-PLC</program>
+		</programList>
+	</nspEntry>
+	<nspEntry>
+		<uid>9644</uid>
+		<firstName>Abu Muhammad</firstName>
+		<lastName>al Julani</lastName>
+		<nspType>Individual</nspType>
+		<programList>
+			<program>NS-PLC</program>
+		</programList>
+	</nspEntry>
+	<nspEntry>
+		<uid>9645</uid>
+		<firstName>Abu Bakr al</firstName>
+		<lastName>Baghdadi</lastName>
+		<nspType>Individual</nspType>
+		<programList>
+			<program>NS-PLC</program>
+		</programList>
+	</nspEntry>
+	<nspEntry>
+		<uid>9646</uid>
+		<firstName>Sirajudin </firstName>
+		<lastName>Haqqani</lastName>
+		<nspType>Individual</nspType>
+		<programList>
+			<program>NS-PLC</program>
+		</programList>
+	</nspEntry>
+	<nspEntry>
+		<uid>9647</uid>
+		<firstName>Abubakar </firstName>
+		<lastName>Shekau</lastName>
+		<nspType>Individual</nspType>
+		<programList>
+			<program>NS-PLC</program>
+		</programList>
+	</nspEntry>
+	<nspEntry>
+		<uid>9648</uid>
+		<firstName>Doku </firstName>
+		<lastName>Umarov</lastName>
+		<nspType>Individual</nspType>
+		<programList>
+			<program>NS-PLC</program>
+		</programList>
+	</nspEntry>								
+</itmem>
